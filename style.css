@@ -3,8 +3,22 @@
  }
 
  #banner {
+     width: 1000%;
  }
 
  h1 {
       text-align: center;
  }
+
+p{
+   text-align: center;
+   background: #CCCCCC
+}
+
+#misao {
+       font-size: 20px
+}
+
+em strong {
+    color: #FF0000;
+}
